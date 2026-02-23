@@ -64,9 +64,9 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 
 <p align="center">
 
--💼 LinkedIn — https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/
--📧 Email — hernandezperezjorge845@gmail.com  
--🌐 Portfolio — https://TU_WEB  
+- 💼 LinkedIn: https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/
+- 📧 Email: hernandezperezjorge845@gmail.com  
+- 🌐 Portfolio: https://TU_WEB  
 
 </p>
 
