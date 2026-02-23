@@ -1,5 +1,5 @@
-<h1 align="center">👋 Juan España</h1>
-<h3 align="center">💻 Desarrollador de Software</h3>
+<h1 align="center">Jorge Hernández Pérez</h1>
+<h3 align="center">💻 Desarrollador de aplicaciones en formación</h3>
 
 <p align="center">
   <img src="perfil.jpg" width=300 />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="[https://linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:TU_EMAIL">
