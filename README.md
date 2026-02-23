@@ -1,5 +1,5 @@
 <h1 align="center">Jorge Hernández Pérez</h1>
-<h3 align="center">💻 Desarrollador de aplicaciones en formación</h3>
+<h3 align="center">💻 Futuro Desarrollador de aplicaciones </h3>
 
 <p align="center">
   <img src="perfil.jpg" width=300 />
