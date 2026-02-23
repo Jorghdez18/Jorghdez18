@@ -33,49 +33,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 
 ---
 
-## ⭐ Proyectos Destacados
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 📱 App Android  
-Java · Android Studio  
-
-Aplicación móvil desarrollada en Android para gestión de tareas.
-
-➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔗 API REST  
-Java · Spring · Maven  
-
-Backend REST para gestión de datos y servicios.
-
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 Dashboard Web  
-React / Web  
-
-Panel interactivo de visualización de datos.
-
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
