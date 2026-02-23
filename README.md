@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/)">
+  <a href="https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:TU_EMAIL">
