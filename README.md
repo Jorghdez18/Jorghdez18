@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:hernandezperezjorge845@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/juanespana">
@@ -81,7 +81,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,,git,github,html,css,visualstudiocode" />
 </p>
 
 ---
@@ -109,8 +109,8 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
+💼 LinkedIn — https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/
+📧 Email — hernandezperezjorge845@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
 </p>
