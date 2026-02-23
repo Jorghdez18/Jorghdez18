@@ -16,7 +16,7 @@
   <a href="mailto:hernandezperezjorge845@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Jorghdez18/Jorghdez18">
+  <a href="https://github.com/Jorghdez18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -27,11 +27,9 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
-- 🚀 Interés en desarrollo Full Stack  
-- 📱 Desarrollo Android con Java  
-- ⚙️ APIs REST con Java / Spring  
+- 🚀 Actualmente buscando oporunidades como desarrollador junior donde pueda aprender, aportar y seguir creciendo en desarrollo web
 - 🌍 Trabajo con metodologías ágiles  
-- 📚 Aprendizaje continuo  
+- 📚 Con ganas de formarme como programador  
 
 ---
 
