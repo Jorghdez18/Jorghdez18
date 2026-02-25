@@ -27,9 +27,9 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
-- 🚀 Actualmente buscando oporunidades como desarrollador junior donde pueda aprender, aportar y seguir creciendo en desarrollo web
-- 🌍 Trabajo con metodologías ágiles  
-- 📚 Con ganas de formarme como programador  
+- 🚀 Actualmente buscando oporunidades como desarrollador junior donde pueda aprender, aportar y seguir creciendo en desarrollo web.
+- 🌍 Trabajo con metodologías ágiles.
+- 📚 Con ganas de formarme como programador, sin miedo a retos dificiles.
 
 ---
 
