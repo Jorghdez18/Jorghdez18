@@ -73,5 +73,5 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/juanespana
+⭐ Gracias por visitar mi perfil — github.com/Jorghdez18
 </p>
