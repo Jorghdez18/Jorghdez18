@@ -51,15 +51,6 @@ Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en primer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorghdez18&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorghdez18&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
