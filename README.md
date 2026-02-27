@@ -1,12 +1,12 @@
 <h1 align="center">Jorge Hernández Pérez</h1>
-<h3 align="center">💻 Futuro Desarrollador de aplicaciones </h3>
+<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <p align="center">
-  <img src="img/CamScanner 22-12-25 12.52_1.jpg" width=300 />
+  <img src="img/CamScanner 22-12-25 12.52_1.jpg" width="300" />
 </p>
 
 <p align="center">
-🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+🧼 Clean Code • 🌱 Aprendiz de Programación • ❤️ Apasionado por la Tecnología
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ## 🧠 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en primer año, apasionado por crear software funcional y con buenas prácticas de desarrollo.  
 
-- 🚀 Actualmente buscando oporunidades como desarrollador junior donde pueda aprender, aportar y seguir creciendo en desarrollo web.
-- 🌍 Trabajo con metodologías ágiles.
-- 📚 Con ganas de formarme como programador, sin miedo a retos dificiles.
+- 🚀 Busco mi primera oportunidad de **prácticas profesionales** donde aprender y crecer como desarrollador.  
+- 🌍 Interesado en trabajar con **metodologías ágiles** y en entornos colaborativos.  
+- 📚 Motivado por aprender nuevas tecnologías y asumir **retos que me ayuden a mejorar**.
 
 ---
 
@@ -54,26 +54,22 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanespana&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespana&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorghdez18&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorghdez18&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contacto:
+## 📫 Contacto
 
 <p align="center">
-
-- 💼 LinkedIn: https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/
+- 💼 LinkedIn: [Jorge Hernández Pérez](https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/)  
 - 📧 Email: hernandezperezjorge845@gmail.com  
-- 🌐 Portfolio: https://TU_WEB  
-
+- 🌐 Portfolio: [Tu web / GitHub Projects](https://github.com/Jorghdez18)  
 </p>
 
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/Jorghdez18
+⭐ Gracias por visitar mi perfil — [github.com/Jorghdez18](https://github.com/Jorghdez18)
 </p>
-
-
