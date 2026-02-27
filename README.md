@@ -2,8 +2,7 @@
 <h3 align="center">💻 Futuro Desarrollador de aplicaciones </h3>
 
 <p align="center">
-  <img src="img/CamScanner 22-12-25 12.52_1.jpg
-" width=300 />
+  <img src="img/CamScanner 22-12-25 12.52_1.jpg" width=300 />
 </p>
 
 <p align="center">
