@@ -63,9 +63,9 @@ Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en primer
 ## 📫 Contacto
 
 <p align="center">
-- 💼 LinkedIn: [Jorge Hernández Pérez](https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/)  
-- 📧 Email: hernandezperezjorge845@gmail.com  
-- 🌐 Portfolio: [Tu web / GitHub Projects](https://github.com/Jorghdez18)  
+-💼LinkedIn: [Jorge Hernández Pérez](https://www.linkedin.com/in/jorge-hern%C3%A1ndez-p%C3%A9rez-22a1a83b3/)  
+-📧Email: hernandezperezjorge845@gmail.com  
+-🌐Portfolio:Jorghdez18.github.io/)
 </p>
 
 ---
