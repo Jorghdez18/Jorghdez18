@@ -30,6 +30,7 @@ Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en primer
 - 🚀 Busco mi primera oportunidad de **prácticas profesionales** donde aprender y crecer como desarrollador.  
 - 🌍 Interesado en trabajar con **metodologías ágiles** y en entornos colaborativos.  
 - 📚 Motivado por aprender nuevas tecnologías y asumir **retos que me ayuden a mejorar**.
+- 👨‍🏫 Nivel de inglés intermedio.
 
 ---
 
