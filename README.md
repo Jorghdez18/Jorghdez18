@@ -25,12 +25,13 @@
 
 ## 🧠 Sobre mí
 
-Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en primer año, apasionado por crear software funcional y con buenas prácticas de desarrollo.  
+Soy estudiante de segundo curso de **DAM (Desarrollo de Aplicaciones Multiplataforma)**, interesado en el desarrollo de software y en seguir mejorando mis conocimientos mediante proyectos prácticos.
 
-- 🚀 Busco mi primera oportunidad de **prácticas profesionales** donde aprender y crecer como desarrollador.  
-- 🌍 Interesado en trabajar con **metodologías ágiles** y en entornos colaborativos.  
-- 📚 Motivado por aprender nuevas tecnologías y asumir **retos que me ayuden a mejorar**.
-- 👨‍🏫 Nivel de inglés intermedio.
+- 💻 Interesado en crear aplicaciones funcionales, mantenibles y siguiendo buenas prácticas.
+- 🚀 Busco una oportunidad de **prácticas profesionales** para adquirir experiencia y crecer como desarrollador.
+- 🤝 Me gusta trabajar en equipo, compartir ideas y desenvolverme en entornos colaborativos.
+- 📚 Tengo iniciativa, capacidad de aprendizaje y motivación para afrontar nuevos retos.
+- 🌍 Nivel intermedio de inglés.
 
 ---
 
